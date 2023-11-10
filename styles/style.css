@@ -1,0 +1,26 @@
+.main-class{
+    display: flex;
+    flex-direction: column;
+}
+.section-class{
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-around; */
+
+}
+.div-class{
+    width: 5vw;  
+    height: 5vw;
+    border: solid 2px rgb(0, 11, 0);
+    background-color:salmon;
+}
+body{
+    height: 100%; 
+    display: flex;
+    justify-content:center; 
+    align-items:center;
+}
+html{
+    height: 100%;
+}
