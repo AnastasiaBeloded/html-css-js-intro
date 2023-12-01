@@ -161,6 +161,7 @@ h1{
     .details-title {
         display: block;
         text-align: center;
+        font-size: 3vh;
         background-color: rgb(215, 207, 198);
     }
     .thumbnails-list{
